@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emmanuel Tomi Popoola 
+- 👋 Hi, I’m Emmanuel Tomi Popoola. 
   A Business Insights & Analytics student with a background in Computer Science.
   Passionate about data analysis, machine learning, and solving real-world business problems using data-driven insights.
 - 👀 I’m interested in Data Analytics & Business Intelligence, Machine Learning & AI, Python, SQL, R, and Power BI, Process Optimization & Decision Science.
