@@ -1,4 +1,4 @@
-Hi, I’m Emmanuel Popoola, a Data Analyst with a Computer Science background, now transitioning into Data Engineering. I’ve mastered Python, SQL, R, and Power BI, and I’m currently focused on learning ETL processes, Data Warehousing, and Big Data technologies.
+Hi, I’m Emmanuel Popoola, a Data Analyst now transitioning into Data Engineering. I’ve mastered Python, SQL, R, and Power BI, and I’m currently focused on learning ETL processes, Data Warehousing, and Big Data technologies.
 
 Eager to apply my analytical skills to build scalable data solutions and optimize data pipelines.
 
